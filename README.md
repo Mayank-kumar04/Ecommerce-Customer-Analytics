@@ -2,8 +2,6 @@
 
 A customer intelligence platform for analyzing e-commerce performance, segmenting customers, predicting customer lifetime value (CLV), identifying churn risk, and supporting data-driven business decisions.
 
-**Maintainer:** Abhinav Jha  
-**GitHub Repository:** [Ecommerce-Customer-Analytics](https://github.com/supabhinav/Ecommerce-Customer-Analytics)
 
 ---
 
@@ -14,7 +12,11 @@ The E-Commerce Customer Analytics Platform combines data analytics, machine lear
 The application uses **Streamlit** for interactive visualizations and **FastAPI** for serving customer analytics and machine-learning predictions. It provides tools for customer segmentation, CLV forecasting, churn-risk estimation, explainable predictions, recommendations, and downloadable reports.
 
 The goal is to turn historical transaction data into actionable customer insights that can support customer retention, marketing, and revenue optimization.
+📊 Dashboard Preview
 
+![E-Commerce Customer Analytics Dashboard](assets/Ecommerce%20Customer%20Analytics.png)
+
+The executive dashboard provides an overview of key business metrics, including revenue, customers, orders, average order value, country-wise revenue, revenue trends, high-risk customers, and revenue at risk.
 ## Key Features
 
 ### 1. Executive Dashboard
