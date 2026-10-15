@@ -178,7 +178,7 @@ The feature-store architecture is intended to avoid repeatedly scanning the comp
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/supabhinav/Ecommerce-Customer-Analytics.git
+git clone https://github.com/Mayank-kumar04/Ecommerce-Customer-Analytics.git
 cd Ecommerce-Customer-Analytics
 ```
 
@@ -339,9 +339,9 @@ Test counts, coverage percentages, and passing status should be documented only 
 ---
 ## Author
 
-**Abhinav Jha**  
-M.Tech Computer Science and Engineering  
-NIT Silchar
+**Mayank Kumar**  
+B.Tech Computer Science and Engineering  
+Lovely Professional University
 
-**GitHub:** [supabhinav](https://github.com/supabhinav)  
-**Project Repository:** [Ecommerce-Customer-Analytics](https://github.com/supabhinav/Ecommerce-Customer-Analytics)
+**GitHub:** [Mayank Kumar](https://github.com/Mayank-kumar04)  
+**Project Repository:** [Ecommerce-Customer-Analytics](https://github.com/Mayank-kumar04/Ecommerce-Customer-Analytics)
