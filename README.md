@@ -305,6 +305,8 @@ The API documentation at `/docs` can also be used to execute requests interactiv
 
 The original training report also shows a low test-set R² for some CLV models. This indicates that absolute monetary predictions need further validation, even if the model can rank customers reasonably well.
 
+### Known Limitations
+
 Before presenting these figures as final project achievements, reproduce the results using a documented holdout strategy and verify the data splits, preprocessing, and evaluation code.
 
 ---
